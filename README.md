@@ -17,3 +17,5 @@ Main Game Music - "Asakusa" by Glitch
 Boss Fight Music - "Shikakansen 2" by Glitch
 Character Voices - animalese.js by Acedio on Github
 Sound Effects - JDWasabi on itch.io
+
+Apologies for the files being slightly disorganised, this was a solo project and also my first time uploading to Github.
