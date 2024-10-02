@@ -252,7 +252,7 @@ class Miles(pygame.sprite.Sprite):
             #reset temp list of images
             temp_list = []
             #count number of files in folder
-            num_of_frames = len(os.listdir(f'sprites/miles\/{animation}'))
+            num_of_frames = len(os.listdir(f'sprites/miles/{animation}'))
             for i in range(num_of_frames):
                 img = pygame.image.load(f'sprites/miles/{animation}/{i}.png').convert_alpha()
                 img= pygame.transform.scale(img, (int(img.get_width() *scale), int(img.get_height() *scale)))
